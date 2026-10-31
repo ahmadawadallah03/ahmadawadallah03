@@ -1,7 +1,6 @@
- 
 <p align="center">
   <a href="https://github.com/ahmadawadallah03">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hi%2C%20I'm%20Ahmad%20Awadallah" alt="Hi, I'm Ahmad Awadallah" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hi%2C%20I'm%20Ahmad%20Awadallah" alt="Hi, I&#39;m Ahmad Awadallah" />
   </a>
 </p>
 
@@ -11,13 +10,11 @@
 
 ### 🚀 About Me
 
-Computer Science student at Zarqa University with a GPA of 90%, passionate about full-stack web development. I build responsive, user-friendly web applications using React, JavaScript, and Node.js, with experience developing REST APIs using Express.js.
-
+Computer Science student at Zarqa University with a GPA of 90%, passionate about full-stack web development. I build responsive, user-friendly web applications using React, JavaScript, and Node.js, with experience developing REST APIs using Express.js.  
 Currently expanding my skills in backend development, database management, and modern web technologies. Always eager to learn, build, and solve real-world problems through code.
 
-🔭 &nbsp; I'm currently working on **Building full-stack web applications with React, Node.js, and Express**
-
-🌱 &nbsp; I'm currently learning **Next.js**
+🔭 &nbsp;I'm currently working on **Building full-stack web applications with React, Node.js, and Express**  
+🌱 &nbsp;I'm currently learning **Next JS**
 
 ### 🛠️ Tech Stack
 
@@ -30,50 +27,41 @@ Currently expanding my skills in backend development, database management, and m
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ahmad-awadallah">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ahmedmatar962">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:awadallahahmad03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/ahmad-awadallah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/ahmedmatar962"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:awadallahahmad03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadawadallah03&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadawadallah03&layout=compact&theme=tokyonight&title_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ahmadawadallah03&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ahmadawadallah03&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadawadallah03&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ahmadawadallah03&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/ahmadawadallah03">ahmadawadallah03</a></i>
-</p>
+<p align="center"><i>⭐️ From <a href="https://github.com/ahmadawadallah03">ahmadawadallah03</a></i></p>
